@@ -1,1 +1,1 @@
-module url-shortener-app
+module github.com/aksv/url-shortener-app.git
